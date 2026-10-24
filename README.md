@@ -20,6 +20,7 @@ I'm always exploring new technologies, taking on different challenges, and expan
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ### GitHub stats
 
 <!-- Stats cards are rendered by third-party services (github-readme-stats, streak-stats), not by GitHub. -->
