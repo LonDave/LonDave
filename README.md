@@ -45,8 +45,34 @@ I'm always exploring new technologies, taking on different challenges, and expan
 
 ### GitHub stats
 
-<!-- Stats cards are rendered by third-party services (github-readme-stats, streak-stats), not by GitHub. -->
-<p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true&theme=default"
+  />
+  <img
+    height="165"
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true&theme=default"
+  />
+  <img
+    height="165"
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true"
+  />
+</picture>
