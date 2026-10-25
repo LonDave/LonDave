@@ -49,7 +49,7 @@ I'm always exploring new technologies, taking on different challenges, and expan
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logoColor=black)
 
-#### AI Tools
+#### AI-Assisted Development Tools
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
