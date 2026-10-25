@@ -8,8 +8,6 @@
 
 I'm a Computer Science student and aspiring Full Stack Developer with a passion for building practical, user-focused web applications.
 
-I enjoy working across both frontend and backend development, using technologies such as React, JavaScript, Node.js, Python, and SQL databases.
-
 I believe good software starts with thoughtful planning and solid design. I approach each project with a focus on structure, functionality, and continuous improvement.
 
 I'm always exploring new technologies, taking on different challenges, and expanding my skills with the goal of becoming a professional Full Stack Developer.
