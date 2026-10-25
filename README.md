@@ -40,24 +40,21 @@ I'm always exploring new technologies, taking on different challenges, and expan
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logoColor=white)
 
 #### API Development & Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logoColor=black)
 
 #### AI Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
+  
 ### GitHub stats
 
 <picture>
