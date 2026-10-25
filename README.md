@@ -47,7 +47,7 @@ I'm always exploring new technologies, taking on different challenges, and expan
 #### API Development & Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logoColor=black)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logo=bruno&logoColor=black)
 
 #### AI-Assisted Development Tools
 
