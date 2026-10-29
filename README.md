@@ -56,36 +56,37 @@ I'm always exploring new technologies, taking on different challenges, and expan
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
+
 ### GitHub stats
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true&theme=github_dark"
+    srcset="https://github-stats-extended.vercel.app/api?username=LonDave&show_icons=true&hide_border=true&theme=github_dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true&theme=default"
+    srcset="https://github-stats-extended.vercel.app/api?username=LonDave&show_icons=true&hide_border=true&theme=default"
   />
   <img
     height="165"
     alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=LonDave&show_icons=true&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=LonDave&show_icons=true&hide_border=true"
   />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true&theme=github_dark"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true&theme=github_dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true&theme=default"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true&theme=default"
   />
   <img
     height="165"
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true"
+    alt="Most used languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LonDave&layout=compact&hide_border=true"
   />
 </picture>
